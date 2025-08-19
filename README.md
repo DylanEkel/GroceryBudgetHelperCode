@@ -42,8 +42,4 @@ Wireframes were used during early planning to ensure intuitive layout:
 
 *Note: Wireframes were built and revised using Figma and referenced during layout development.*
 
-## 🔧 How to Install
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/GroceryBudgetHelper.git
